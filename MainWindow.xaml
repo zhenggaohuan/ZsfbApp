@@ -90,6 +90,7 @@
                                 <ComboBoxItem>三防配电箱</ComboBoxItem>
                                 <ComboBoxItem>三防操作柱</ComboBoxItem>
                                 <ComboBoxItem>三防接线箱</ComboBoxItem>
+                                <ComboBoxItem>防爆防腐操作柱</ComboBoxItem>
                             </ComboBox>
                             <Label>防爆等级：</Label>
                             <ComboBox>
