@@ -83,7 +83,7 @@
                                 </Style>
                             </StackPanel.Resources>
                             <Label>产品名称：</Label>
-                            <ComboBox>
+                            <ComboBoxItem>
                                 <ComboBoxItem IsSelected="True">防爆配电箱</ComboBoxItem>
                                 <ComboBoxItem>防爆操作柱</ComboBoxItem>
                                 <ComboBoxItem>防爆接线箱</ComboBoxItem>
@@ -92,7 +92,8 @@
                                 <ComboBoxItem>三防接线箱</ComboBoxItem>
                                 <ComboBoxItem>防爆防腐操作柱</ComboBoxItem>
                                 <ComboBoxItem>版本测试</ComboBoxItem>
-                            </ComboBox>
+                                <ComboBoxItem>测试2</ComboBoxItem>
+                                </ComboBox>
                             <Label>防爆等级：</Label>
                             <ComboBox>
                                 <ComboBoxItem>无</ComboBoxItem>
